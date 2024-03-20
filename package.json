@@ -1,0 +1,24 @@
+{
+  "name": "deploy_versel_p",
+  "version": "1.0.0",
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgoldy/deploy_versel_p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgoldy/deploy_versel_p/issues"
+  },
+  "homepage": "https://github.com/kgoldy/deploy_versel_p#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1582.0",
+    "kafkajs": "^2.2.4",
+    "luxon": "^3.4.4"
+  }
+}
